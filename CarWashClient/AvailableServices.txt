@@ -1,0 +1,10 @@
+﻿Πλύσιμο εξωτερικό\ Outside wash \ 02 03 05 \ 7 8 6 
+Πλύσιμο εσωτερικό\ Inside wash\ 02 04 05 \ 6 7 0
+Πλύσιμο εξωτ.+εσωτ.\ Inside+Outside wash\ 00 01 03 04 05 \ 12 14 0 
+Πλύσιμο εξωτ. σπέσιαλ\ Special outside wash\ 00 02 05 \ 9 10 8 
+Πλύσιμο εσωτ. σπέσιαλ\ Special inside wash\ 01 02 05 \ 8 9 0 
+Πλύσιμο εξωτ. + εσωτ. σπέσιαλ\ Special inside+outside wash\ 00 01 02 03 04 \ 15 17 0
+Βιολογικός καθαρισμός εσωτ.\ Biological inside wash \ \ 80 80 0
+Κέρωμα-Γυάλισμα\ Wax polishing\ \ 80 90 40 
+Καθαρισμός κινητήρα\ Engine cleaing\ \ 20 20 10 
+Πλύσιμο σασί\ Chasis cleaning\ \ 3 3 0 
