@@ -158,7 +158,7 @@ public class SecondWinClient extends JFrame {
             @Override
             public void actionPerformed(ActionEvent e) {
                 SummaryInfoSend confirmation =new SummaryInfoSend();
-                confirmation.setVisible(true);
+             
             }
         });
         gbc.insets = new Insets(50, 50, 50, 0);

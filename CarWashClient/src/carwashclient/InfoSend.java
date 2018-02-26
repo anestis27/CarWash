@@ -16,7 +16,7 @@ public class InfoSend {
     public InfoSend(ArrayList<String> infSen) {
         try {
             //Prepei na ginei allagh gia to LAN
-            Socket echoSocket = new Socket("198.168.137.1", 7896);
+            Socket echoSocket = new Socket("localhost", 7896);
             PrintWriter serverOut = new PrintWriter(echoSocket.getOutputStream(), true);
             Scanner serverIn = new Scanner(echoSocket.getInputStream());
             for (int i = 0; i < infSen.size(); i++) {
